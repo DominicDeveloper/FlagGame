@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flag Game</string>
+    <string name="start_game">Start Game</string>
+    <string name="welcome_to_flag_game">Welcome to Flag Game</string>
+    <string name="restart_game">Restart Game</string>
+</resources>
